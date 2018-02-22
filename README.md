@@ -3,7 +3,46 @@ Use google translation to automatically translate subtitle(*.srt file content) f
 
 ## README.md
 字幕(.srt)文件 英译中
+### 效果
+#### 翻译前
 
+    1
+    00:04:50,098 --> 00:04:51,546
+    Your name?
+    
+    2
+    00:04:51,757 --> 00:04:52,905
+    Julio Madiaga.
+    
+    3
+    00:04:55,176 --> 00:04:57,139
+    I was the one who came to you last week.
+    
+    4
+    00:04:57,477 --> 00:04:59,137
+    You told me to come back today.
+#### 翻译后
+
+    1
+    00:04:50,098 --> 00:04:51,546
+    Your name?
+    你的名字？
+    
+    2
+    00:04:51,757 --> 00:04:52,905
+    Julio Madiaga.
+    Julio Madiaga。
+    
+    3
+    00:04:55,176 --> 00:04:57,139
+    I was the one who came to you last week.
+    我是上周来找你的那个人。
+    
+    4
+    00:04:57,477 --> 00:04:59,137
+    You told me to come back today.
+    你让我今天回来。
+   
 ### 原因
 - 熟悉python
 - 一天看到一个机翻字幕自称苦苦做了几小时 干点什么不好呢
