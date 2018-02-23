@@ -17,9 +17,12 @@ def translate(content):
     url = "http://translate.google.cn/translate_a/single?client=gtx" \
           "&sl=en&tl=zh-CN&hl=EN&dt=t&q=%s" % content
     result = open_url(url)
-    end = result.find("\",")
-    if end > 4:
-        texts = result[4:end]
+    result = result.split(r'","')
+    result.pop()
+    texts = ''
+    for ite in result:
+        lst = ite.rfind(r'"')
+        texts += ite[lst + 1::]
     return texts
 
 
