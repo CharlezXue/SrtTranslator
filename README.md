@@ -52,9 +52,11 @@ Use google translation to automatically translate subtitle(*.srt file content) f
 
 ### 完成度
 - [ ] 其他语言互译(修改url中sl=en和tl=zh-CN)
+- [ ] exe文件
 - [x] 翻译无标点
 - [x] 翻译多行无标点
-- [ ] 翻译有标点
+- [x] 翻译有标点
+- [ ] 特效模块
 - [ ] 非utf-8编码
 - [ ] 意外处理
 - [ ] 文件重名详细逻辑
