@@ -51,6 +51,7 @@ Use google translation to automatically translate subtitle(*.srt file content) f
 [请问如何调用谷歌翻译API?](https://www.zhihu.com/question/47239748/answer/147563856/)
 
 ### 完成度
+#### alpha版本
 - [ ] 其他语言互译(修改url中sl=en和tl=zh-CN)
 - [ ] exe文件
 - [x] 翻译无标点
@@ -61,4 +62,13 @@ Use google translation to automatically translate subtitle(*.srt file content) f
 - [ ] 意外处理
 - [ ] 文件重名详细逻辑
 - [ ] 优化流程(内存 OOP) ~~不存在的~~
+#### beta版本
+- [x] 支持srt/vtt多种类型字幕翻译
+- [x] 支持翻译单个文件或者整个目录下的所有字幕
+- [x] 自动备份所有原味字幕，麻麻再也不怕我弄丢原来字幕了
+- [x] 支持三种调用google翻译api方式：不翻墙白嫖方式（不推荐，用不长就会被封）；翻墙白嫖方式(推荐，未来可能被封)；翻墙并注册Google Cloud Platform稳定调用（首先你需要一张Visa卡，剩下的查看文档：[官方开发文档](https://cloud.google.com/translate/docs/quickstart-client-libraries)）
+- [x] 翻译多行无标点
+- [x] 翻译多行有标点(,)
+- [x] 支持查看当前翻译进度
+
 ## End
