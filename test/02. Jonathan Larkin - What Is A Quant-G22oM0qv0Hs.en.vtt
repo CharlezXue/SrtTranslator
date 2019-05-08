@@ -4,209 +4,148 @@ Language: en
 
 00:00:00.000 --> 00:00:01.610
 In his book, The Quants,
-在他的书“The Quants”中,
 
 00:00:01.610 --> 00:00:03.905
 Scott Patterson really hit the nail on the head.
-斯科特·帕特森真正击中了头部。
-
 
 00:00:03.904 --> 00:00:06.714
 He described Quants as those searching for the truth.
-他将Quants描述为寻找真相的人。
 
 00:00:06.714 --> 00:00:09.869
 The truth being the universal underlying hidden dynamics
-事实是市场中普遍存在的潜在隐藏动力,
 
 00:00:09.869 --> 00:00:12.849
 in the markets and that has always captivated me.
-并且一直让我着迷。
-
 
 00:00:12.849 --> 00:00:15.250
 Quants build computational models of the world.
-Quants构建了世界的计算模型。
 
 00:00:15.250 --> 00:00:19.679
 Specifically, that could be about financial instruments or markets,
-具体而言,
 
 00:00:19.679 --> 00:00:23.114
 and Quants apply the scientific method to finance.
-这可能与金融工具或市场有关，而Quants则采用科学方法进行融资。
-
 
 00:00:23.114 --> 00:00:27.130
 You'll find Quants working across the entire financial industry these days.
-如今，Quants可以在整个金融行业中发挥作用。
 
 00:00:27.129 --> 00:00:30.304
 Most people associate the job of a Quant with
-大多数人将Quant的工作与众所周知的定量对冲基金联系在一起,
 
 00:00:30.304 --> 00:00:33.515
 very well known quantitative hedge funds and
-Quants在这种类型的组织中工作肯定是正确的,
 
 00:00:33.515 --> 00:00:36.859
 it is certainly true that Quants work in that type of organization,
-但Quants也在商业银行,
 
 00:00:36.859 --> 00:00:41.655
 but Quants also work in commercial banks, proprietary trading firms,
-自营交易公司,
 
 00:00:41.655 --> 00:00:45.158
 asset management firms, data vendor firms,
-资产管理公司,
 
 00:00:45.158 --> 00:00:47.734
 and they also work across functions.
-数据供应商公司工作，他们也是跨职能工作。
-
 
 00:00:47.734 --> 00:00:53.519
 You'll find Quants working in many aspects of a investment organization.
-您会发现Quants在投资组织的许多方面工作。
 
 00:00:53.520 --> 00:00:55.925
 You'll find Quants in the research function.
-你会在研究函数中找到Quants。
 
 00:00:55.924 --> 00:00:58.699
 Those are Quants looking for predictive signals and
-这些是寻找可以在下游应用于投资组合的预测信号和数据的Quants。
 
 00:00:58.700 --> 00:01:01.755
 data that can be applied downstream to a portfolio.
 
-
 00:01:01.755 --> 00:01:05.600
 You'll find Quants working in risk management trying to
-您会发现Quants从事风险管理工作,
 
 00:01:05.599 --> 00:01:09.890
 predict the risk of a particular portfolio or the risk firm wide.
-试图预测特定投资组合或风险公司的风险。
-
 
 00:01:09.890 --> 00:01:13.724
 You'll find Quants working in portfolio construction,
-您会发现Quants在投资组合构建中工作,
 
 00:01:13.724 --> 00:01:17.549
 combining the signals and models produced by other Quants.
-结合其他Quants生成的信号和模型。
-
 
 00:01:17.549 --> 00:01:21.134
 You'll also find Quants working in data vendors,
-您还会发现Quants在数据供应商,
 
 00:01:21.135 --> 00:01:23.969
 data vendors who are preparing unstructured data,
-数据供应商工作,
 
 00:01:23.969 --> 00:01:26.039
 then to sell to the financial industry.
-他们正在准备非结构化数据，然后出售给金融行业。
-
 
 00:01:26.040 --> 00:01:28.910
 One of the reasons that I'm so fascinated with
-我对这个领域非常着迷的原因之一是,
 
 00:01:28.909 --> 00:01:32.375
 this field is that there really is no typical day.
-真的没有典型的一天。
-
 
 00:01:32.375 --> 00:01:37.170
 That being said, the work product of a Quant is to create a model.
-话虽这么说，Quant的工作产品是创建一个模型。
 
 00:01:37.170 --> 00:01:40.640
 That could be a model of financial time series or it could
-这可以是金融时间序列的模型
 
 00:01:40.640 --> 00:01:44.090
 be the model of a portfolio or firm-wide risk,
-也可以是投资组合或公司范围风险的模型
 
 00:01:44.090 --> 00:01:47.000
 or it could be a model to reduce
-或者它可以是将结构化数据减少到结构化形式以便在投资过程中进一步使用的模型。
 
 00:01:47.000 --> 00:01:51.834
 unstructured data to structured form for further use in the investment process.
 
-
 00:01:51.834 --> 00:01:57.818
 One thing that makes this field fascinating is that things are always changing.
-让这个领域引人入胜的一件事是事情总是在变化。
 
 00:01:57.819 --> 00:01:59.935
 There's new developments in markets.
-市场有新的发展。
 
 00:01:59.935 --> 00:02:01.400
 There are new datasets.
-有新的数据集。
 
 00:02:01.400 --> 00:02:03.525
 There are new computational techniques.
-有新的计算技术。
 
 00:02:03.525 --> 00:02:06.160
 You always need to keep learning and you
-你总是需要继续学习,
 
 00:02:06.159 --> 00:02:09.444
 always need to continually up your game in order to compete.
-你总是需要不断提升你的比赛才能参加比赛。
-
 
 00:02:09.444 --> 00:02:14.590
 People who have achieved substantial success in other scientific disciplines
-在其他科学学科取得巨大成功的人在进入量化金融时往往会感到谦卑。
 
 00:02:14.590 --> 00:02:19.879
 are often humbled when they come to quantitative finance.
 
-
 00:02:19.879 --> 00:02:26.894
 The reason for this is that signals in financial data are very, very faint,
-这样做的原因是财务数据中的信号非常非常微弱,
 
 00:02:26.895 --> 00:02:30.560
 and you need to combine not just a scientific approach,
-您需要结合不仅仅是科学方法,
 
 00:02:30.560 --> 00:02:34.469
 but you need to combine that with understanding of markets,
-而是需要将其与市场理解,
 
 00:02:34.469 --> 00:02:38.425
 intuition of markets, and domain knowledge about markets.
-市场直觉和市场领域知识相结合。
-
 
 00:02:38.425 --> 00:02:42.740
 For example, take Isaac Newton who experienced significant stock trading losses
-例如,
 
 00:02:42.740 --> 00:02:44.480
 in his personal account and is quoted as
-艾萨克·牛顿（Isaac Newton）在个人账户中经历了重大的股票交易损失,
 
 00:02:44.479 --> 00:02:47.060
 saying "I can predict the movements of the heavens,
-并引用了“我可以预测天空的运动,
 
 00:02:47.060 --> 00:02:49.920
 but I cannot predict the madness of people."
-但我无法预测人们的疯狂”。
-
-
 
